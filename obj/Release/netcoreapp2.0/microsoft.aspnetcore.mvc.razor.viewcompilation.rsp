@@ -1,0 +1,9 @@
+C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=LabWork
+--content-root=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork
+--file=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork\Views\Home\Calc.cshtml
+--file=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork\Views\Home\Index.cshtml
+--file=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork\Views\Home\ObList.cshtml
+--file=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork\Views\Home\ObListAdmin.cshtml
+--file=C:\Users\kalistratov\Desktop\Projects\Restore_Calc\LabWork\LabWork\Views\Shared\_Layout.cshtml

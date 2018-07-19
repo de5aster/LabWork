@@ -1,0 +1,32 @@
+﻿
+.cta_img {     
+    filter: none;
+    margin: auto;
+    min-height: 150px;
+    min-width: 150px;
+    width: 380px;
+    height: 600px;
+    padding-left: 5px;   
+
+}
+.img_set {
+    display: none;
+}
+
+.img_set_none{   
+}
+.scroll {
+    opacity: 0.3;
+    background-color: #777777;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+    .scroll:hover {
+        opacity: 1;
+    }

@@ -1,0 +1,36 @@
+﻿.scroll {
+    opacity: 0.3;
+    background-color: #777777;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.scroll:hover {
+    opacity: 1;
+}
+.content-report {
+    width: 90%;
+    margin:auto;
+}
+iframe {
+    width:90%;
+}
+a {
+    user-select: none;
+    color: black;
+}
+
+    a:hover {
+        color: #d94f5c;
+    }
+ul {
+margin-left: 30px;
+}
+ol {
+    margin-left: 30px;
+}
